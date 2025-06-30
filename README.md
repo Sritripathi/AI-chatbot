@@ -1,1 +1,1 @@
-# AI-chatbot
+This is an AI ChatBot website made using HTML,CSS and JavaScript. This ChatBot can take input from user in form of text as well as images and it processes the input and generates the desired output.  
